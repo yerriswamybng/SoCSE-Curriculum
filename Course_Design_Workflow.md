@@ -22,7 +22,7 @@
    - **L-T-P-C** (e.g. DAA = `1-1-1-3`, HC integrated)
    - **Level on the dual-level scale** (A / Adv / A+Adv / —)
    - **Prerequisite courses** (the arrows feeding into your node)
-4. **Confirm the two program-level decisions are fixed** (Guidelines §0): the official awareness/advanced mark ratio, and a filled reference exemplar. If either is missing, flag it — do not invent your own.
+4. **Confirm the necessary decisions are recorded** (Guidelines §0): the course-level awareness/advanced split documented in the Course File, and a filled reference exemplar. If either is missing, document and justify the split in the file — do not leave it unspecified.
 
 > These four facts decide *everything* downstream. A `3-0-0` theory course and a `1-1-1` integrated course are designed differently (Guidelines §3–§4). The map tells you which rules apply.
 

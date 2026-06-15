@@ -10,12 +10,12 @@
 
 ## 0. Two decisions that must already be fixed before you start
 
-These are **program-level** decisions, made once centrally — not by individual designers. Confirm they exist before designing assessment:
+These are decisions that must be explicit and recorded before designing assessment. Confirm they are documented in the Course File:
 
-1. **The official awareness/advanced mark ratio.** The institution computes, against REVA's marks-to-grade-point conversion, the split that makes an awareness-only student land **below the 8-CGPA band**. Every theory/integrated course uses this single fixed ratio (illustratively ~70/30). Do **not** invent your own.
-2. **A filled reference exemplar.** One fully designed course (scope table + assessment split) circulated as the calibration standard, so "advanced level" means the same thing across all courses.
+1. **A course-level awareness/advanced split (documented).** The course designer must define and justify the awareness/advanced marks split (for example, 70/30) and record the §14.1 calibration showing how awareness-only mastery maps to the institution's marks-to-grade conversion. Document the rationale; do not leave the split unspecified.
+2. **A filled reference exemplar.** One fully designed course (scope table + assessment split) circulated as a calibration standard, so "advanced level" means the same thing across courses where applicable.
 
-If either is missing, flag it — designing assessment without them will break the cross-course consistency the CGPA signal depends on.
+If either is missing, document the split and/or exemplar in the Course File — designing assessment without a recorded calibration will weaken cross-course comparability.
 
 ---
 
@@ -83,7 +83,7 @@ If either is missing, flag it — designing assessment without them will break t
 - The backbone of CSCore and placement-readiness. Awareness floor **must** map to entrance-test topics.
 - **Awareness floor:** define, explain, apply standard procedures to familiar problems.
 - **Advanced ceiling:** compare/justify design choices, analyze complexity/trade-offs, solve novel problems.
-- Apply the **fixed awareness/advanced mark ratio** (§0.1). Verify in the Course File that awareness-only < 8 CGPA.
+  - Apply the course-level awareness/advanced split and record the §14.1 calibration. Verify in the Course File that awareness-only < 8 CGPA or explicitly document why a different calibration is used.
 - Blueprint every IA and the SEE so advanced questions are present and identifiable.
 
 ### 4.3 Hard Core integrated (HC, 1-1-1 / 2-0-1) — e.g. DSA, Design & Analysis of Algorithms, Deep Learning
@@ -166,7 +166,7 @@ If either is missing, flag it — designing assessment without them will break t
 - [ ] COs written first, each tagged with a **Bloom taxonomy level** (Remember / Understand / Apply / Analyse / Evaluate / Create), mapped to PO/PSO.
 - [ ] Awareness floor explicitly mapped to CSCore / placement competencies (where applicable).
 - [ ] Advanced ceiling defined per unit using Bloom anchor; consistent with the reference exemplar.
-- [ ] For theory/integrated: official awareness/advanced **mark ratio applied** and the *awareness-only < 8 CGPA* check passes.
+- [ ] For theory/integrated: course-level awareness/advanced split defined and the *awareness-only < 8 CGPA* calibration check (§14.1) is recorded.
 - [ ] For high-P courses: level distinction lives in a **rubric**, not a question paper.
 - [ ] Remediation path (to floor) **and** enrichment path (to ceiling) both named.
 - [ ] Content currency: perishable tooling in labs/workshops, not frozen in theory; review cycle noted.

@@ -39,7 +39,7 @@ There is also one **structural mismatch with the curriculum map**: the map lists
 | A3 | 🔴 **Fail** | DAA is **integrated `1-1-1`** (theory + tutorial + lab). File delivers **theory-only**, no lab/practical sessions, no rubric — the practical credit where the ceiling is demonstrated is missing. | Add the tutorial and lab/practical strands; design the ceiling into the lab (Guidelines §4.3). |
 | A4 | ✅ Pass | Prerequisite "Data Structures" recorded — consistent with the map's DSA → DAA arrow. | Optionally note the mentoring/track link explicitly. |
 | A5 | ✅ Pass | Vision/mission and front-matter present. | — |
-| A6 | 🔴 **Fail** | No reference to the **official awareness/advanced mark ratio** or the **reference exemplar**. | Confirm these exist centrally and apply the ratio (Guidelines §0). |
+| A6 | 🔴 **Fail** | No reference to the **course-level awareness/advanced split** or the **reference exemplar**. | Document the split in §14 and record the calibration (Guidelines §0). |
 
 ### B. Course outcomes
 
@@ -139,12 +139,12 @@ The fastest route is to **regenerate this course on the dual-level template** us
 2. **Author the §3 dual-level scope** for all four units — floor vs ceiling *(C1)*.
 3. **Tag every CO** Awareness/Advanced/Both; map the floor to placement/entrance-test topics *(B2, B3, B4)*.
 4. **Design one activity per session** (the empty "Extended Activities" column) and tag each with Merrill phase + level; ensure ≥1 Advanced activity per unit is *taught* *(D2, D4, D1)*.
-5. **Split assessment** into awareness/advanced marks, apply the official ratio, and complete the **§14.1 CGPA calibration** *(E1, E2, E3)*.
+5. **Split assessment** into awareness/advanced marks, define and apply the course-level split, and complete the **§14.1 CGPA calibration** *(E1, E2, E3)*.
 6. **Tie remediation/enrichment to the floor/ceiling** *(F1, F2)*.
-7. **Confirm the program-level ratio + exemplar exist** *(A6)*.
+7. **Confirm the course-level split is documented + exemplar exist** *(A6)*.
 
 **Then Majors:** rewrite CO1/CO3 (B1), trace COs through §11 (B6, D1), add the §14.2 blueprint (E4), add a bridge ramp (F3), list the real pedagogy mix (G3), report advanced COs separately (H2), and add the lab rubric (D7).
 
 **A practical prompt to start the upgrade (Activities-first is the natural fit here, since the topic plan already exists):**
 
-> "Take the existing DAA Course File content (units, topics, dates, references — all valid) and upgrade it onto `Course_File_Template_DualLevel.md` for an HC **integrated `1-1-1-3`, level A+Adv** course. For each of the 48 session topics, design **one activity** a student submits (auto-graded quiz, program, or mini-task), tagging Merrill phase and floor/ceiling level, with ≥1 advanced activity taught per unit. Then author the §3 dual-level scope, tag the COs, split §14 assessment per the official ratio, and complete the §14.1 CGPA calibration. Ask me about tooling and the advanced-task briefs as you go."
+Take the existing DAA Course File content (units, topics, dates, references — all valid) and upgrade it onto `Course_File_Template_DualLevel.md` for an HC **integrated `1-1-1-3`, level A+Adv** course. For each of the 48 session topics, design **one activity** a student submits (auto-graded quiz, program, or mini-task), tagging Merrill phase and floor/ceiling level, with ≥1 advanced activity taught per unit. Then author the §3 dual-level scope, tag the COs, split §14 assessment per the course-level split defined for this course, and complete the §14.1 CGPA calibration. Ask me about tooling and the advanced-task briefs as you go.

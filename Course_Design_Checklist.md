@@ -17,7 +17,7 @@
 | A3 | The **design treatment matches the L-T-P shape** — e.g. an integrated `1-1-1` course has a real practical/lab component, not theory-only delivery; a `0-0-x` course is rubric-graded. | 🔴 Blocker | Guidelines §3–§4, §6 |
 | A4 | **Prerequisite course(s) recorded** (§10) and consistent with the map's incoming arrows; the mentoring/track link is traceable. | 🟠 Major | Template §10; Map |
 | A5 | School vision/mission and standard front-matter present and current. | 🟡 Minor | Template §0 |
-| A6 | The two **program-level decisions are confirmed to exist**: official awareness/advanced mark ratio + filled reference exemplar (flagged if missing, not invented locally). | 🔴 Blocker | Guidelines §0 |
+| A6 | The two **decisions are confirmed to exist or are documented**: the course-level awareness/advanced split recorded in §14 + filled reference exemplar (flagged if missing). | 🔴 Blocker | Guidelines §0 |
 
 ## B. Course outcomes (COs)
 
@@ -56,7 +56,7 @@
 | ID | Check | Severity | Source |
 |---|---|---|---|
 | E1 | **§14 evaluation scheme splits every instrument** into awareness (floor) and advanced (ceiling) marks. | 🔴 Blocker | Template §14 |
-| E2 | The **official awareness/advanced mark ratio (§0.1) is applied** — not a locally invented split. | 🔴 Blocker | Guidelines §0.1, §4.2 |
+| E2 | The **course-level awareness/advanced split (§14) is defined, applied and documented** in the Course File — the rationale and calibration should be recorded. | 🔴 Blocker | Guidelines §14, §4.2 |
 | E3 | **§14.1 CGPA calibration check completed and confirmed**: awareness-only mastery lands **below the 8-CGPA band**; crossing it requires advanced marks. | 🔴 Blocker | Template §14.1; Strategy §9.1 |
 | E4 | **§14.2 question-paper blueprint** present — awareness vs advanced items identified for each IA and the SEE. | 🟠 Major | Template §14.2 |
 | E5 | Component split (IA/assignments/SEE) totals 100 and is internally consistent. | 🟡 Minor | Template §14 |

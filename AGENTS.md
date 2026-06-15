@@ -40,7 +40,7 @@ Two project skills under `.claude/skills/` package the core workflows. Prefer th
 
 - **Markdown** is the working format. Keep the existing voice: tables, blockquote callouts for rules, `🔴/🟠/🟡` severities, `🟢/🔵` template-section markers. Preserve the `‹…›` placeholder convention in templates.
 - **Cross-link** related docs by relative path so the set stays navigable.
-- **Do not stream students** into ability sections in any design — differentiation is by assessment (Strategy §5.4). Do not invent a local awareness/advanced mark ratio; it is a program-level decision (Guidelines §0).
+- **Do not stream students** into ability sections in any design — differentiation is by assessment (Strategy §5.4). Do not invent an unrecorded awareness/advanced split; instead define and document the course-level split in §14 and record the §14.1 calibration.
 - **Honour the keystone sections** when touching a Course File: §3 dual-level scope, §11 session plan (Merrill phase + activity + level per session), §14/§14.1 assessment + CGPA calibration, §22 Merrill strategy.
 
 ## Working with `.docx` files

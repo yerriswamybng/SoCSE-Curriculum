@@ -47,7 +47,7 @@ Guide a faculty member from a blank start to a **completed `Course File — Dual
 3. **Dual-level level** (A / Adv / A+Adv / —) — from the Visual Map
 4. **Prerequisite course(s)** (the map's incoming arrows) — from the Visual Map
 
-Then confirm the two **program-level** decisions exist (Guidelines §0): the official awareness/advanced **mark ratio** and a **reference exemplar**. If either is missing, **flag it — never invent a local ratio.**
+Then confirm the two decisions exist or are documented (Guidelines §0): the course-level awareness/advanced **split recorded in §14** and a **reference exemplar**. If either is missing, document and justify the split; do not leave it unspecified.
 
 > A `3-0-0` theory course and a `1-1-1` integrated course are designed differently (Guidelines §3–§4). Match the L-T-P treatment: integrated courses need a real practical strand; high-P courses carry the level distinction in a **rubric**, not a question paper.
 
@@ -73,7 +73,7 @@ Fill every section of `Course_File_Template_DualLevel.md`, replacing all `‹…
 Non-negotiables to honour while generating:
 - **§3 dual-level scope** filled for every unit, Bloom-anchored.
 - **§11**: every session has unit/topic, CO, level (A/Adv), a **Merrill phase**, and an **activity**; all five Merrill phases appear per unit; **≥1 Advanced activity is actually taught per unit** (not only assessed).
-- **§14**: every instrument splits marks into awareness/advanced using the **official ratio**; complete and **confirm the §14.1 calibration** (awareness-only < 8 CGPA).
+- **§14**: every instrument must split marks into awareness/advanced as defined for this course; complete and **confirm the §14.1 calibration** (awareness-only < 8 CGPA) and document the rationale.
 - **§8** differentiation tied explicitly to floor (remediation) and ceiling (enrichment); intake-aware (no unstated prior-exposure; bridge ramp where the gap is real).
 - **Currency**: perishable tooling lives in activities/labs, not frozen into theory; note a review cycle.
 - **No streaming**; one course for all (Strategy §5.4).

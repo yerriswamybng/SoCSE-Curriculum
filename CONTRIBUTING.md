@@ -134,7 +134,7 @@ your fork (origin)            upstream (kavyareva24)
 - **Preserve `‹…›` placeholders** in templates; fill them in course files.
 - **Cross-link** related documents by relative path so the set stays navigable.
 - **Never stream students** into ability sections — differentiation is by assessment only (Strategy §5.4).
-- **Never invent a local awareness/advanced mark ratio** — it is a program-level decision (Guidelines §0).
+- **Do not invent an unrecorded awareness/advanced split.** Define and document the course-level split in §14 and record the §14.1 calibration; seek HoD/program approval if required.
 - **Honour the keystone sections** when editing a Course File: §3 dual-level scope, §11 session plan (Merrill phase + activity + level), §14/§14.1 assessment + CGPA calibration, §22 Merrill strategy.
 - **Do not delete or "polish" `CourseDesignWorkflow.md`** (raw planning notes) without asking the owner.
 - **Keep perishable tooling out of frozen theory syllabi** — it belongs in activities/labs/workshops (Strategy §6.1).
