@@ -1,20 +1,20 @@
-# CF_B24NM0101 — Network Management Systems
+# CF_B25CSS711 — Network Management Systems
 
 ## 0. Course identification
 
 | Field | Entry |
 |---|---|
-| Faculty name | ‹…› |
-| REVA ID | ‹…› |
-| Email | ‹…› |
+| Faculty name | Dr. Syed Muzamil Basha |
+| REVA ID | REVA02214 |
+| Email | muzamilbasha.s@reva.edu.in |
 | Programme | B.Tech — CSE / CSIT / ISE / IT / AIML |
-| Course code | CF_B24NM0101 |
+| Course code | B25CSS711 |
 | Course title | Network Management Systems |
-| Semester & section | ‹…› |
+| Semester & section | 7th Sem, All sections |
 | Academic year | 2026–27 |
 | Course duration (sessions) | 48 L (3-0-0) |
 | Total period load (TPL) | 300 |
-| Office / consultation hours | ‹…› |
+| Office / consultation hours | 42 |
 
 ## 1. Course description
 
@@ -274,6 +274,7 @@ The course uses Merrill's five phases in lecture-based activities: Problem-centr
 - NETCONF4J API and Java client docs; ncclient Python client docs
 
 ### Online resources
+- [NMS Course](https://nmswipro.vercel.app/)
 - Vendor documentation (Cisco IOS-XE RESTCONF/NETCONF guides)
 - Prometheus, Grafana, Kafka documentation; Mininet & Ryu/ONOS tutorials
 
