@@ -24,9 +24,9 @@ status: designed
 
 | Field | Entry |
 |---|---|
-| Faculty name | ‹…› |
-| REVA ID | ‹…› |
-| Email | ‹…› |
+| Faculty name | Suhasini N |
+| REVA ID | REVA02405 |
+| Email | suhasini.n@reva.edu.in |
 | Programme | B.Tech — CSE / ISE / IT / AIML / AIDS / IoT / Cyber Security |
 | Course code | TBD |
 | Course title | Enterprise Cloud Engineering for Insurance Technology |
@@ -34,10 +34,10 @@ status: designed
 | L-T-P-C | 3-0-0-3 |
 | Contact hours / week | 3 |
 | Semester | VII |
-| Section | ‹…› |
-| Academic year | ‹…› |
+| Section | VII A/B/C/D/E/F |
+| Academic year | 2026-27 |
 | Course duration (sessions) | 15 weeks × 3 hours |
-| Office / consultation hours | ‹…› |
+| Office / consultation hours | 08:30AM - 04:30PM |
 
 **School vision / mission:** To develop technically competent, industry-ready professionals with strong foundations in software engineering, cloud platforms, and modern enterprise systems.
 
@@ -53,7 +53,7 @@ This course introduces students to Guidewire-based enterprise application develo
 
 | Unit | Syllabus | Weightage |
 |---|---|---|
-| 1 | Introduction to Guidewire and InsuranceSuite: Welcome, what is Guidewire, Guidewire overview, InsuranceSuite overview | 25 Marks |
+| 1 | Overview of the Guidewire ecosystem: components of InsuranceSuite — PolicyCenter, BillingCenter, ClaimCenter; development environment setup and architecture overview; understanding the Guidewire application lifecycle; introduction to Guidewire Cloud Platform (GWCP) | 25 Marks |
 | 2 | InsuranceSuite developer fundamentals: data model file structure, data dictionary, extending the data model, creating new entities, extending typelists, creating new typelists, PCF architecture, container basics, atomic widgets, details views, list view creation, editable list views, input sets, popups, field-level validation expressions | 25 Marks |
 | 3 | Gosu programming basics: Gosu and arrays, Gosu rule basics, pre-update rules, logging basics and standards, logging with GW Cloud, Gosu classes, creating and processing queries, bundle basics, bundle management, best practices, source control with Git | 25 Marks |
 | 4 | Developing with Guidewire Cloud: GWCP introduction, source code management, build management, deployment, deployment experience, observability, lifecycle manager, administrative configuration | 25 Marks |
@@ -73,10 +73,12 @@ This course introduces students to Guidewire-based enterprise application develo
 
 ## 4. Course objectives 🟢
 
-- Introduce the fundamentals of Guidewire and InsuranceSuite for insurance technology applications.
-- Develop understanding of data modeling and UI customization in Guidewire Studio.
-- Build basic and intermediate Gosu-based business logic and rule implementations.
-- Explain source control, deployment, observability, and administration in Guidewire Cloud.
+- Use the development environment of a Guidewire InsuranceSuite application to start and stop a development instance of a Guidewire application.
+- Configure the data model to create entities and typelists, find information in the Data Dictionary, and modify existing base application entities and typelists.
+- Configure the user interface to create and modify input widgets, detail views, and toolbars for InsuranceSuite applications.
+- Implement and debug application business logic using Gosu, a Guidewire object-oriented programming language.
+- Prepare to develop on Guidewire Cloud by understanding cloud architecture, Git-based source control, build and deployment workflows, observability, and lifecycle management.
+- Identify GWCP components and explain how they support the implementation of InsuranceSuite applications in Guidewire Cloud, including configuration, deployment, testing, and monitoring practices.
 
 ---
 
@@ -84,12 +86,12 @@ This course introduces students to Guidewire-based enterprise application develo
 
 | CO# | Course outcome | Level (Awareness / Advanced / Both) 🔵 | POs | PSOs |
 |---|---|---|---|---|
-| CO1 | Explain the purpose, architecture, and components of Guidewire and InsuranceSuite | Awareness | PO1, PO2 | PSO1 |
-| CO2 | Extend the data model and create typelists and entity structures for insurance domain requirements | Both | PO2, PO3 | PSO1 |
-| CO3 | Design and customize PCF-based user interfaces with validation and interactive components | Both | PO3, PO5 | PSO1 |
-| CO4 | Implement Gosu rules, queries, logging, and bundle operations for application logic | Both | PO2, PO3, PO5 | PSO2 |
-| CO5 | Apply version control and deployment concepts in Guidewire Cloud development workflows | Awareness | PO5, PO11 | PSO2 |
-| CO6 | Develop a mini-solution for an insurance workflow scenario using Guidewire Studio and Guidewire Cloud concepts | Advanced | PO3, PO4, PO5 | PSO2 |
+| CO1 | Understand the Guidewire ecosystem, InsuranceSuite components, application lifecycle, and the role of Guidewire Cloud Platform in insurance application development | Awareness | PO1, PO2 | PSO1 |
+| CO2 | Configure the data model by creating entities and typelists, using the Data Dictionary effectively, and modifying existing base application entities and typelists | Both | PO2, PO3 | PSO1 |
+| CO3 | Configure the user interface by creating and modifying input widgets, detail views, and toolbars for InsuranceSuite applications | Both | PO3, PO5 | PSO1 |
+| CO4 | Implement and debug business logic using Gosu for rules, queries, logging, and bundle-based application behavior | Both | PO2, PO3, PO5 | PSO2 |
+| CO5 | Apply Guidewire Cloud development practices including Git-based source control, build and deployment workflows, configuration management, and basic monitoring using observability tools | Both | PO5, PO11 | PSO2 |
+| CO6 | Deploy and manage InsuranceSuite applications in Guidewire Cloud using lifecycle management, quality gates, storage access, and operational monitoring practices | Advanced | PO3, PO4, PO5 | PSO2 |
 
 ---
 
